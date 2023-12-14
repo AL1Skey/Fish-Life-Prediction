@@ -14,6 +14,10 @@ feature = json.load(open('feature.json','r'))
 # Title
 st.header("Fish Life Prediction")
 st.image('fish.jpg')
+
+# Kaggle Link
+st.subheader('Kaggle Dataset')
+st.markdown("[Fish Life Prediction DataSet](https://www.kaggle.com/datasets/muzamilaslam/fish-life-prediction)")
 #DataFrame
 st.header("DataFrame")
 st.write(df.head())
