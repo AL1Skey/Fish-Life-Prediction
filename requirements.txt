@@ -1,4 +1,5 @@
 
+      #python==3.11.4 | packaged by Anaconda, Inc. | (main, Jul  5 2023, 13:47:18) [MSC v.1916 64 bit (AMD64)]
       numpy==1.26.0
       pandas==2.1.1
       matplotlib==3.8.0
