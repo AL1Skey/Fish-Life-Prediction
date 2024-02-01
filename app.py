@@ -46,6 +46,7 @@ with col[0]:
 
 with col[1]:
     st.write('''
+
     ### Turbidity:
     Represents the cloudiness or haziness of a fluid. Turbidity affects light penetration and, consequently, the aquatic ecosystem.
 
